@@ -2,7 +2,7 @@
 
 ## Internship Details
 
-**Intern Name:** Dheeraj Prajapat
+**Intern Name:** Deeraj Prajapat
 
 **Intern ID:** CTTS007
 
